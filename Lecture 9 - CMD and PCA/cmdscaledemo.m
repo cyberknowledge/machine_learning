@@ -1,0 +1,1 @@
+openExample('stats/cmdscaledemo')
